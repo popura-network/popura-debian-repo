@@ -1,0 +1,7 @@
+Archive: stable
+Version: 1.0
+Component: main
+Origin: rany Popura repo
+Label: rany
+Architecture: armel
+Description: stable popura branch

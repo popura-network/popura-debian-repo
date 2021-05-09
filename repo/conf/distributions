@@ -1,0 +1,9 @@
+Origin: rany Popura repo
+Label: rany
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 i386 mipsel mips armhf arm64 armel
+Components: main
+Description: stable popura branch
+SignWith: F7A87580578CA2C63C905B8804F4B018E95F87D1

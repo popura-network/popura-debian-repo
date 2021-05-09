@@ -1,0 +1,17 @@
+Package: popura
+Version: 0.3.16+popura1+7
+Architecture: mips
+Replaces: yggdrasil, yggdrasil-develop, popura, popura-develop
+Conflicts: yggdrasil, yggdrasil-develop, popura, popura-develop
+Maintainer: rany <rany at i2pmail dot org>
+Priority: extra
+Section: contrib/net
+Filename: pool/main/p/popura/popura_0.3.16+popura1+7_mips.deb
+Size: 3173986
+SHA256: 409a5cace5bc3362cc4a18ab09710f25ac43ea953b336418b0e36bacfa4b57b1
+SHA1: df46afb8e8178386e5a8cbdb7b36ad090ccd8056
+MD5sum: f0a2ca62fd729afde40090cd7decfa11
+Description: Popura ポプラ: alternative Yggdrasil network client
+ Popura uses the same Yggdrasil core API internally, but adds some useful and
+ experimental features which the original client lacks.
+
