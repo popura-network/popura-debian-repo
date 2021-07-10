@@ -20,9 +20,9 @@ else
 fi
 
 cd Popura/
-curl -s https://publicpeers.neilalexander.dev/publicnodes.json \
-  | jq -rc 'to_entries[] | .value | to_entries[] | .key' > assets/peers.txt
-./make_assets
+#curl -s https://publicpeers.neilalexander.dev/publicnodes.json \
+#  | jq -rc 'to_entries[] | .value | to_entries[] | .key' > assets/peers.txt
+#./make_assets
 cd ..
 
 #docker run -t -i --rm \
