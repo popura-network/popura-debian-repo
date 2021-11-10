@@ -1,0 +1,7 @@
+Popura/
+gopath/
+deb_output/**
+gopath/**
+go*-*-*
+go*-*/**
+go*.*-*.tar.gz

@@ -1,0 +1,17 @@
+Package: popura
+Version: 0.4.2+popura1+1
+Architecture: armhf
+Replaces: yggdrasil, yggdrasil-develop, popura, popura-develop
+Conflicts: yggdrasil, yggdrasil-develop, popura, popura-develop
+Maintainer: rany <rany at i2pmail dot org>
+Priority: extra
+Section: contrib/net
+Filename: pool/main/p/popura/popura_0.4.2+popura1+1_armhf.deb
+Size: 3109164
+SHA256: 008303664fb0f70f5c7e85a2e55e6a34c82a12ecfc8a019d7a510f2f8cea3af9
+SHA1: bb957286014d1d7e8de6ef07e454f5cd7c99f5f6
+MD5sum: 218b8e041e6939d2c92548c0faf9290f
+Description: Popura ポプラ: alternative Yggdrasil network client
+ Popura uses the same Yggdrasil core API internally, but adds some useful and
+ experimental features which the original client lacks.
+
